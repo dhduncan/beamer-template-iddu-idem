@@ -1,6 +1,6 @@
-# Beamer theme: ACEFA and IDDU
+# Beamer theme: IDDU and or IDEM
 
-This repository contains a Beamer theme that uses the ACEFA and IDDU branding.
+This repository contains a Beamer theme that uses the branding from (optionally) IDDU and IDEM. I forked it off Rob Moss' plate.
 
 **Important:** this theme only works with the XeLaTeX and LuaLaTeX toolchains.
 Unless you have specific requirements, you should use `lualatex` instead of `xelatex`.
